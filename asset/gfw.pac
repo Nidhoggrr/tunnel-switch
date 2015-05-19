@@ -24,6 +24,7 @@ function FindProxyForURL(url, host)
         ,'googleusercontent.com'
 
         ,'youtube.com'
+        ,'myvideo.de'
         ,'ytimg.com'
     ];
     
